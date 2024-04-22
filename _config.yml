@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shuai (S. A.) Yuan / Site Title"
+title                    : "Shuai (S. A.) Yuan"
 title_separator          : "-"
 name                     : &name "Shuai (S. A.) Yuan"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "lab_photo.png"
   name             : "Shuai (S. A.) Yuan"
   pronouns         : # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am Shuai Yuan, a 5th year PhD student at Zhejiang University"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : # URL
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=VnADNw8AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3284-3961"
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Shuai-Yuan-47"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
