@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shuai (S. A.) Yuan / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shuai (S. A.) Yuan"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,16 +23,16 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Hangzhou, China"
+  employer         : "Zhejiang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shuaiyuan1997@zju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=VnADNw8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
