@@ -1,8 +1,6 @@
 ---
 title: "Electromagnetic effective degree of freedom of an MIMO system in free space"
 collection: IEEE
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021/12/14
 venue: 'Journal 1'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9650519'
