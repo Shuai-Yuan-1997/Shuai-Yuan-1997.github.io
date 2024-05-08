@@ -38,33 +38,10 @@ author:
 
   # Repositories and software development
   github           : "Shuai-Yuan-1997"
-  
+  linkedin         : "https://www.linkedin.com/in/shuai-s-a-yuan-40a48b11b/"
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/shuai-s-a-yuan-40a48b11b/"
-  bluesky          : # Username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
+  
 
 
 # Site Settings
